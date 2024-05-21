@@ -8,7 +8,7 @@ class ComputationalBiologist:
     def __init__(self):
         self.name = "Kate"
         self.role = "Computational Biologist"
-        self.language_spoken = ["en_US"]
+        self.language_spoken = ["de_DE", "en_US"]
         self.research_interests = ["Immunology", "Single-cell data analysis", "Data Science"]
         self.skills = ["Python", "R", "Bash", "SQL", "Docker", "Tensorflow", "Sklearn", "Linux"]
 
