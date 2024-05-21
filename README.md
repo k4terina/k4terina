@@ -1,4 +1,3 @@
-<h2 align="left">🧬 k4terina</h2>
 
 ```python
 #!/usr/bin/python
